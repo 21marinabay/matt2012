@@ -1,9 +1,15 @@
-matt2012
-========
+superskeleton
+=============
 
-matt2012 will have the new theme
+superskeleton
+
+==================================
+
+This project is based on oralhistoryproject. This will be a wordpress clone and then we will setup superskeleton.
+The idea is to know when the code breaks
 
 
 news
-===
-we are going to work on this files
+====
+
+- Kudos Frank, you have just started using github nicely.
