@@ -27,7 +27,7 @@
 			  } ?>
 		
 		<!-- 1/3 Columns -->
-		<div class="one-third column">				
+		<div class="one-fourth column">				
 			<div class="module">						
 				<?php if(get_option_tree('homepage_blurb_1_image')) { ?>	
 				<div class="module-img">							
@@ -50,7 +50,7 @@
 			</div>				
 		</div>
 
-		<div class="one-third column">				
+		<div class="one-fourth column">				
 			<div class="module">
 				<?php if(get_option_tree('homepage_blurb_2_image')) { ?>
 				<div class="module-img">							
@@ -73,7 +73,7 @@
 			</div>				
 		</div>
 
-		<div class="one-third column">				
+		<div class="one-fourth column">				
 			<div class="module">	
 				<?php if(get_option_tree('homepage_blurb_3_image')) { ?>
 				<div class="module-img">							
@@ -94,7 +94,30 @@
 					<p><?php echo get_option_tree('homepage_blurb_3_text'); ?></p>
 				</div>						
 			</div>				
-		</div>		
+		</div>	
+		<div class="one-fourth column">				
+			<div class="module">	
+				<?php if(get_option_tree('homepage_blurb_3_image')) { ?>
+				<div class="module-img">							
+					<a href="<?php if (get_option_tree('open_as_lightbox') == 'Yes') { echo get_option_tree('homepage_blurb_3_image'); } else { echo get_option_tree('homepage_blurb_4_url'); } ?>" <?php if (get_option_tree('open_as_lightbox') == 'Yes') { ?>data-rel="prettyPhoto[Gallery]"<?php } ?>>
+						<img src="http://matt2012.super.21marinabay.com/wp-content/uploads/2012/04/matriculated-nsmen.jpg" alt="image"/>
+						<span></span>
+					</a>							
+					<div class="lightboxLink">
+						<a class="popLink boxLink" href="<?php echo get_option_tree('homepage_blurb_4_image'); ?>" data-rel="prettyPhoto[Lightbox]" title="Lightbox" ></a>
+				    </div>						    
+					<div class="thumbLink">
+					    <a class="popLink" href="<?php echo get_option_tree('homepage_blurb_4_url'); ?>" title="Full Post"></a>
+				    </div>						    
+				</div>			
+				<?php } else {} ?>
+				<div class="module-meta">
+					<h5><a href="<?php echo get_option_tree('homepage_blurb_4_url'); ?>"><?php echo "Matriculated NS Men" ?></a></h5>	
+					<p><?php echo get_option_tree('homepage_blurb_4_text'); ?></p>
+				</div>						
+			</div>				
+		</div>	
+			
 		<!-- /End 1/3 Columns -->
 		
 	</div>
