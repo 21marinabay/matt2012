@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Skeleton v1.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-03-16 23:25+0000\n"
+"Last-Translator: makedesign <brandon.r.jones@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#: page.php:31
+#: template-fullwidth.php:38
+#@ skeleton
+#@ sidewinder
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "Posted on"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "jS"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:108
+#: functions/meta-box/meta-box-3.2.2.class.php:349
+#@ skeleton
+msgid "Delete this image"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:108
+#: functions/meta-box/meta-box-3.2.2.class.php:306
+#: functions/meta-box/meta-box-3.2.2.class.php:349
+#@ skeleton
+msgid "Delete"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:302
+#@ skeleton
+msgid "Uploaded files"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:312
+#@ skeleton
+msgid "Upload new files"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:315
+#@ skeleton
+msgid "Add more file"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:356
+#@ skeleton
+msgid "Add more images"
+msgstr ""
+
+#: functions/meta-box/meta-box-3.2.2.class.php:363
+#@ skeleton
+msgid "Select a color"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:124
+#@ skeleton
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:125
+#@ skeleton
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:126
+#, php-format
+#@ skeleton
+msgid "The %1$s plugin is required for this theme. Click on the big blue button below to install and activate %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:127
+#, php-format
+#@ skeleton
+msgid "The %1$s plugin is recommended for this theme. Click on the big blue button below to install and activate %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:128
+#, php-format
+#@ skeleton
+msgid "The %1$s plugin is installed but currently inactive. Please go to the <a href=\"%2$s\">plugin administration page</a> page to activate it."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:129
+#: functions.php:80
+#, php-format
+#@ skeleton
+msgid "Install %s Now"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:130
+#, php-format
+#@ skeleton
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:131
+#@ skeleton
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:132
+#, php-format
+#@ skeleton
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:133
+#, php-format
+#@ skeleton
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:134
+#, php-format
+#@ skeleton
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:135
+#, php-format
+#@ skeleton
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:136
+#, php-format
+#@ skeleton
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:137
+#, php-format
+#@ skeleton
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:138
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:438
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:448
+#@ skeleton
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:139
+#@ skeleton
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:578
+#@ skeleton
+msgid "Begin installing plugins"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:579
+#@ skeleton
+msgid "Activate installed plugins"
+msgstr ""
+
+#: functions/tgm-plugin-activation/class-tgm-plugin-activation.php:580
+#@ skeleton
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/widgets/search_widget.php:33
+#@ skeleton
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:123
+#@ skeleton
+msgid "Delicious:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:126
+#@ skeleton
+msgid "DeviantArt:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:129
+#@ skeleton
+msgid "Email:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:132
+#@ skeleton
+msgid "Facebook:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:135
+#@ skeleton
+msgid "Flickr:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:138
+#@ skeleton
+msgid "LinkedIn:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:141
+#@ skeleton
+msgid "MySpace:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:144
+#@ skeleton
+msgid "NetVibes:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:147
+#@ skeleton
+msgid "Reddit:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:150
+#@ skeleton
+msgid "RSS:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:153
+#@ skeleton
+msgid "Skype:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:156
+#@ skeleton
+msgid "Tumblr:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:159
+#@ skeleton
+msgid "Twitter:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:162
+#@ skeleton
+msgid "StumbleUpon:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:165
+#@ skeleton
+msgid "Vimeo:"
+msgstr ""
+
+#: functions/widgets/social_widget.php:168
+#@ skeleton
+msgid "YouTube:"
+msgstr ""
+
+#: functions.php:215
+#@ skeleton
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:216
+#@ skeleton
+msgid "Top Bar Menu - Responsive Mode"
+msgstr ""
+
+#: functions.php:225
+#@ skeleton
+msgid "Default Post/Page Sidebar"
+msgstr ""
+
+#: functions.php:227
+#@ skeleton
+msgid "Default widget area for posts/pages. "
+msgstr ""
+
+#: functions.php:236
+#@ skeleton
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:238
+#@ skeleton
+msgid "The first column in the footer widget area."
+msgstr ""
+
+#: functions.php:247
+#@ skeleton
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:249
+#@ skeleton
+msgid "The second column in the footer widget area."
+msgstr ""
+
+#: functions.php:258
+#@ skeleton
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:260
+#@ skeleton
+msgid "The third column in the footer widget area."
+msgstr ""
+
+#: functions.php:269
+#@ skeleton
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:271
+#@ skeleton
+msgid "The fourth column in the footer widget area."
+msgstr ""
+
+#: header.php:29
+#, php-format
+#@ mdnw
+msgid "Page %s"
+msgstr ""
+
+#: index.php:49
+#: search.php:53
+#: template-hybridblog-2.php:138
+#: template-hybridblog-3.php:137
+#: template-hybridblog-4.php:138
+#: template-portfolio-2col.php:229
+#: template-portfolio-3col.php:230
+#: template-portfolio-4col.php:231
+#: template-vertblog.php:67
+#@ skeleton
+msgid "Previous Posts"
+msgstr ""
+
+#: index.php:50
+#: search.php:54
+#: template-hybridblog-2.php:139
+#: template-hybridblog-3.php:138
+#: template-hybridblog-4.php:139
+#: template-portfolio-2col.php:230
+#: template-portfolio-3col.php:231
+#: template-portfolio-4col.php:232
+#: template-vertblog.php:68
+#@ skeleton
+msgid "Next Posts"
+msgstr ""
+
+#: template-hybridblog-2.php:107
+#: template-hybridblog-2.php:114
+#: template-hybridblog-3.php:106
+#: template-hybridblog-3.php:113
+#: template-hybridblog-4.php:107
+#: template-hybridblog-4.php:114
+#@ skeleton
+msgid "Read More"
+msgstr ""
+
+#: template-portfolio-2col.php:68
+#: template-portfolio-3col.php:69
+#: template-portfolio-4col.php:69
+#@ skeleton
+msgid "Filters:"
+msgstr ""
+
+#: template-portfolio-2col.php:93
+#: template-portfolio-3col.php:94
+#: template-portfolio-4col.php:94
+#@ skeleton
+msgid "Layout:"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "F"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "by"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "in"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "No Comments"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "1 Comment"
+msgstr ""
+
+#: element-excerpt.php:15
+#: single.php:25
+#@ skeleton
+msgid "% comment"
+msgid_plural "% comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:19
+#@ skeleton
+msgid "Search Results for"
+msgstr ""
+
