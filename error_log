@@ -1,1 +1,4 @@
 [25-Apr-2012 04:01:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/super21/matt2012/wp-content/themes/super-skeleton/footer.php on line 133
+[03-May-2012 06:42:42 UTC] PHP Fatal error:  Call to undefined function the_post_title() in /home/super21/matt2012/wp-content/themes/super-skeleton/template-fullwidth-sandbox.php on line 41
+[03-May-2012 06:43:33 UTC] PHP Fatal error:  Call to undefined function post_title() in /home/super21/matt2012/wp-content/themes/super-skeleton/template-fullwidth-sandbox.php on line 41
+[03-May-2012 06:43:52 UTC] PHP Fatal error:  Call to undefined function post_title() in /home/super21/matt2012/wp-content/themes/super-skeleton/template-fullwidth-sandbox.php on line 41

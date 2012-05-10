@@ -31,7 +31,7 @@ h5 {
 } 
 	
 h2.title, h1.title{ 
-    background: url("../images/theme/backgrounds/pattern_diagonal_medium.png") repeat scroll 0 0 transparent;
+  /*  background: url() repeat scroll 0 0 transparent;*/
     font-size: 28px;
     line-height: 175%;
     margin-bottom: 20px;
